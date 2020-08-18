@@ -55,6 +55,6 @@ and [William Spriggs, economist at AFL-CIO](https://aflcio.org/policy-experts/wi
 ## Resources and Research
 * [Employer Survey on STC](https://impaqint.com/work/project-reports/employer-views-about-short-time-compensation-program-survey-and-analysis-four) 
 * [CARES Act funding to states through August 8, 2020](https://oui.doleta.gov/unemploy/docs/cares_act_funding_state.html)
-* TODO: Link to experience of applicant NY Workshare
+* [Experience of an applicant to NY Shared Work program](https://docs.google.com/document/d/1pGUP6TcPcXuwIxPrgDjfiXOK4ANvBRehmL6uZPj7thE/edit?ts=5f3af3dc#heading=h.rq1oo3qq46wh)
 * [Profile: Gelinda Jones, DC](https://www.linkedin.com/in/gelinda-jones-35b97262/)
 
