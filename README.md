@@ -57,4 +57,14 @@ and [William Spriggs, economist at AFL-CIO](https://aflcio.org/policy-experts/wi
 * [CARES Act funding to states through August 8, 2020](https://oui.doleta.gov/unemploy/docs/cares_act_funding_state.html)
 * [Experience of an applicant to NY Shared Work program](https://docs.google.com/document/d/1pGUP6TcPcXuwIxPrgDjfiXOK4ANvBRehmL6uZPj7thE/edit?ts=5f3af3dc#heading=h.rq1oo3qq46wh)
 * [Profile: Gelinda Jones, DC](https://www.linkedin.com/in/gelinda-jones-35b97262/)
+* [Evaluation of STC Program in Iowa and Oregon](https://www.dol.gov/sites/dolgov/files/OASP/legacy/files/STC-in-Iowa-and-Oregon-Final-Report.pdf)
+* [STC Working Group Community](https://stc.workforcegps.org/)
+* [Missouri Gets a Grant to Promote STC Aug. 11, 2020](https://www.dol.gov/newsroom/releases/eta/eta20200811)
+
+## Eligibility Research
+* [Vendors that do Wage Verification](https://drive.google.com/file/d/1j3IVD-G35vvrZ4VL-N-Rqq6Q2PSmqrxg/view)
+* [The CMS Hub, how eligibility works on health insurance exchanges](https://www.cms.gov/CCIIO/Resources/Fact-Sheets-and-FAQs/ffe)
+* [The Hub, eligibility for healthcare insurance subsidies](https://en.wikipedia.org/wiki/Federal_Data_Services_Hub)
+* [GAO Report on the Hub](https://www.gao.gov/products/GAO-16-265#:~:text=The%20data%20hub%20is%20a,information%20security%20policies%20and%20procedures)
+* Coming soon: KYC and Indentity Verification 
 
