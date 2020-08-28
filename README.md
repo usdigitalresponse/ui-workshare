@@ -60,6 +60,13 @@ and [William Spriggs, economist at AFL-CIO](https://aflcio.org/policy-experts/wi
 * [Evaluation of STC Program in Iowa and Oregon](https://www.dol.gov/sites/dolgov/files/OASP/legacy/files/STC-in-Iowa-and-Oregon-Final-Report.pdf)
 * [STC Working Group Community](https://stc.workforcegps.org/)
 * [Missouri Gets a Grant to Promote STC Aug. 11, 2020](https://www.dol.gov/newsroom/releases/eta/eta20200811)
+* [WARN Act](https://www.lexisnexis.com/LegalNewsRoom/labor-employment/b/labor-employment-top-blogs/posts/the-warn-act-what-is-it-and-how-does-it-work)
+* [Rapid Response DOL notes](https://www.dol.gov/newsroom/releases/eta/eta20200811)
+* [Rapid Response Research](http://www.heldrich.rutgers.edu/sites/default/files/products/uploads/Rapid_Response_Brief.pdf)
+* [STC Employer Survey Research](https://impaqint.com/work/project-reports/employer-views-about-short-time-compensation-program-survey-and-analysis-four)
+* [STC Employer Outreach Research](https://impaqint.com/work/project-reports/employer-views-about-short-time-compensation-program-survey-and-analysis-four)
+
+
 
 ## Eligibility Research
 * [Vendors that do Wage Verification](https://drive.google.com/file/d/1j3IVD-G35vvrZ4VL-N-Rqq6Q2PSmqrxg/view)
